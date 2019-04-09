@@ -1,2 +1,3 @@
-# mybatis_generator
-mybatis配置自动生成
+mybatis_generator自动生成代码demo
+maven编译  command line ：mybatis-generator:generate -e
+
